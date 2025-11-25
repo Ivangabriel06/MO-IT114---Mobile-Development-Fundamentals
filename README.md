@@ -23,10 +23,10 @@ Reviewers (Mentor/Peers): Use these links to compare the structure and flow of t
 ### 💻 Repository & Output Details
 
 * **Project Output Screenshot (Simulator/Emulator):**
-    `[Insert Image of PetHealthConnect Dashboard rendered in iOS/Android simulator]`
+<img width="323" height="699" alt="image" src="https://github.com/user-attachments/assets/e10c57db-5547-4baf-a766-2c53417bf12c" />
 
 * **Your project’s GitHub repository:**
-    `[Insert link to this new repository]`
+    https://github.com/Ivangabriel06/MO-IT161---Mobile-Pet-Dashboard
 
 * **Project Requirements Document:** The requirements and scope are detailed in the **Project Scope** section below.
 * **Project Plan (Timeline):** The development timeline and solo roles are detailed in the **Development Timeline** section below.
@@ -60,3 +60,4 @@ This project was completed by a sole contributor (Ivan Gabriel Abrera), who assu
 ### 📂 Repository Structure
 
 The code is organized as follows:
+MO-IT161---Mobile-Pet-Dashboard/ ├── src/ (Main application source folder: Contains all logic and views) │ ├── ui/ (Holds the view files, e.g., DashboardView.swift/kt) │ └── data/ (Placeholder for data models and services) ├── assets/ (Image assets for icons, avatar, product images) └── README.md
